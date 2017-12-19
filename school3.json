@@ -1,0 +1,34 @@
+{
+  "school": {
+    "Mediacollege": {
+      "category": "MBO",
+      "students": {
+        "nr_students": 20000,
+        "presence_students": 5,
+      "courses": {
+        "MD": "Mediadevelopment",
+        "GD": "Gamedevelopment",
+        "AV": "audio-visueel",
+        }
+      }
+    },
+    "Horizoncollege": {
+      "category": "MBO",
+      "students": {
+        "nr_students": 10000,
+        "presence_students": 500,
+      "courses": {
+        "VZ": "Verzorging",
+        "HM": "Hospitality",
+        }
+      }
+    },
+    "Calandlyceum": {
+      "category": "VMBO",
+      "students": {
+        "nr_students": 3000,
+        "presence_students": 2000,
+      }
+    }
+  }
+}
